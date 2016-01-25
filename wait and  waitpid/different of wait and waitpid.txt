@@ -1,0 +1,7 @@
+wait提供的是阻塞版本
+waiptpid提供了wait没有提供的三个功能：
+1. waitpid可等待一个特定的进程
+2. waitpid提供了一个wait的非阻塞版本
+3. waitpid支持作业控制
+
+两者返回值：成功返回被等待进程pid，失败返回-1
