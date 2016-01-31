@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <pthread.h>
 #include <stdlib.h>
 #include <malloc.h>
@@ -142,3 +142,11 @@ int main()
 	pthread_cond_destroy(&cond);
 	return 0;
 }
+
+
+//线程创建、终止、等待、同步、分离具体分析见：http://blog.csdn.net/SuLiJuan66/article/details/50615208
+
+
+
+
+
