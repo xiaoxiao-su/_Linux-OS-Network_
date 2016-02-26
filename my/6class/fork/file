@@ -1,0 +1,6 @@
+hello bit
+uid:500,euid:500,gid:500,egid:500
+child:pid:21209,ppid:21208,val:1,&val:0xbfec7b78,g_val:1,&g_val:0x8049a48
+hello bit
+uid:500,euid:500,gid:500,egid:500
+father:pid:21208,ppid:20431,val:0,&val:0xbfec7b78,g_val:0,&g_val:0x8049a48

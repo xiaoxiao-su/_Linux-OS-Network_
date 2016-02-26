@@ -1,0 +1,21 @@
+#!/bin/sh
+
+str="sulijuan"
+val=10
+f_val=3.14
+
+echo "str = ${str} Is a Student"
+echo "val = ${val}"
+echo "f_val = ${f_val}"
+
+fun(){
+    echo "fun()"
+}
+
+fun
+
+while :
+do
+    echo "hello"
+    sleep 1
+done
